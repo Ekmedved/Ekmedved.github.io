@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is Dr. Test Account's home on the web!
+This is Aleksei Chernoshtanov home on the web!
 
 A data-driven personal website
 ======
