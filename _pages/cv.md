@@ -20,14 +20,14 @@ Work experience
 * 2020 - 2022: System Analyst
   * MONT Group of Companies
   * Duties included: 
-    — Participated in projects for the development of automation of business processes (accounting, document management, sales);
-    — Conducted interviews with the customer's users;
-    — Participated in the formation and development of functional requirements/technical specifications for the system;
-    — Set tasks for developers and tested the developed functionality in Axapta and 1C;
-    — Participated in integration with external systems (Nikta, 1C, showcase);
-    — Advised users within the framework of the 2nd Axapta support line;
-    — Developed instructions, regulations, knowledge base;
-    — Participated in the activities of the 1st support line and the setup of Axapta.
+    * Participated in projects for the development of automation of business processes (accounting, document management, sales);
+    * Conducted interviews with the customer's users;
+    * Participated in the formation and development of functional requirements/technical specifications for the system;
+    * Set tasks for developers and tested the developed functionality in Axapta and 1C;
+    * Participated in integration with external systems (Nikta, 1C, showcase);
+    * Advised users within the framework of the 2nd Axapta support line;
+    * Developed instructions, regulations, knowledge base;
+    * Participated in the activities of the 1st support line and the setup of Axapta.
 
 * 2022: System Analyst
   * KKZ
