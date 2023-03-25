@@ -85,10 +85,10 @@ author:
   bio              : "Data analyst / Product analyst"
   location         : "Mersin, Turkey - Moscow, Russia"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://scholar.google.com/this-is-a-test"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : # "http://scholar.google.com/this-is-a-test"
+  email            : "chernoshtanov12@yandex.ru"
+  researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -99,10 +99,10 @@ author:
   github           : "Ekmedved"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "chernoshtanovalexey"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "alexey-chernoshtanov"
   orcid            : # http://orcid.org/yourorcidurl
   pinterest        :
   soundcloud       :
