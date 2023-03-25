@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* Russian State Agrarian University - Moscow Timiryazev AgriculturalAcademy (RSAU-MTAA), Bachelor 2017
-* Russian State Agrarian University - Moscow Timiryazev AgriculturalAcademy (RSAU-MTAA), Master 2019
+* Russian State Agrarian University - Moscow Timiryazev Agricultural Academy (RSAU-MTAA), Bachelor, 2017
+* Russian State Agrarian University - Moscow Timiryazev Agricultural Academy (RSAU-MTAA), Master, 2019
 * Google Data Analyst Professional Certificate, Google, 2022
 
 Work experience
