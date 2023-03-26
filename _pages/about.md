@@ -10,6 +10,6 @@ redirect_from:
 
 This is Aleksei Chernoshtanov home on the web!
 
-A data-driven personal website
+Hi, i'm Aleksei!
 ======
-PRIMER.
+I love to help organizations unleash the power of data to solve business problems. I have experience working in Business Intelligence & Machine Learning with a primary focus on Data Analytics insights. My background in the gambling and construction industry are equipped me with the necessary skills to effectively analyze and interpret complex datasets. 
