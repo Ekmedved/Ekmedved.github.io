@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* 2020 - 2022: System Analyst
+* May 2020 - March 2022: System Analyst
   * MONT Group of Companies
   * Duties included: 
     * Participated in projects for the development of automation of business processes (accounting, document management, sales);
@@ -29,7 +29,7 @@ Work experience
     * Developed instructions, regulations, knowledge base;
     * Participated in the activities of the 1st support line and the setup of Axapta.
 
-* 2022: System Analyst
+* April 2022 - June 2022: System Analyst
   * KKZ
   * Duties included: 
     * Participated in the creation and establishment of the department for user support in the Bitrix24 system and 1C program support;
@@ -39,7 +39,7 @@ Work experience
     * Started user applications in the Bitrix24 system;
     * Participated in the refinement of the functionality in 1C with the help of the 1C constructor.
     
-* 2022: Data Analyst
+* July 2022 - August 2022: Data Analyst
   * NEBO 
   * Duties included: 
     * Prepared analytical sales reports in Jupiter Notebook (pandas, plotly, seaborn, matplotlib);
@@ -49,7 +49,7 @@ Work experience
     * Analyzed the conversion rate (CR and CTR) and created reports for management;
     * Conducted an assessment and analyzed the company's leads.
     
-* 2022 - 2023: Data Analyst
+* December 2022 - now: Data Analyst
   * Mega Pari
   * Duties included: 
     * Visualized product metrics in Grafana using ClickHouse;
